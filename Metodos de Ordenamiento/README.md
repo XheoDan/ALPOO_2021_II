@@ -1,7 +1,6 @@
 # ALPOO 
 * SEMESTRE 2021 II 
 * GRUPO DINAMITA
-* _Hola , este repositorio alberga los diferentes ejercicios 
- que vayamos desarrollando en el presente semestre._
+* _Hola , aqui estan los metodos de ordenamiento por mexcla y monticulos._
  
 
